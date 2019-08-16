@@ -1,0 +1,177 @@
+
+.headers{
+  background-image: linear-gradient(to bottom right,#200433,#00D7D7);
+}
+
+.navstuff{
+  color: white;
+  opacity: 0.6;
+}
+
+.navbar-brand-alt{
+  color: black;
+  font-size: 25px;
+  font-weight: 800;
+  font-family: "Open Sans", sans-serif;
+  position: absolute;
+  left:200px;
+  top: 10px;
+  border-bottom: 1px solid grey;
+  border-width: 300%;
+}
+
+.btn-primary{
+  background-color: #45DA60;
+  opacity: 1;
+  border: none;
+  width: 100px;
+  border-radius: 3px;
+  letter-spacing: 1px;
+  font-size: 11px;
+}
+
+.nav-link:hover{
+  color: white;
+  opacity: 1
+}
+
+form{
+  position: absolute;
+  top: 25px;
+  right:100px;
+}
+
+.navbar-brand{
+  font-size: 25px;
+  font-weight: 800;
+  font-family: "Open Sans", sans-serif;
+  position: absolute;
+  left:200px;
+  top:10px;
+  color: white;
+}
+
+.dropdown:hover .dropdown-menu {
+  display: block;
+  border-radius: 3px;
+  color: #9598A0;
+}
+
+.dropdown-item:hover{
+  color: #06B5CF;
+}
+
+.logo{
+  height: 40px;
+  position:absolute;
+  left: 90px;
+  top: 10px;
+}
+
+a{
+  font-family: "Open Sans", sans-serif;
+  font-weight: 600;
+  color:white;
+  letter-spacing: 1px;
+  font-size: 12px;
+}
+.nav-item{
+  font-size: 12px;
+}
+
+.form-inline{
+  font-size: 12px;
+}
+
+.btn{
+  font-size: 12px;
+  height: 5%;
+}
+
+.container-fluid{
+height:100vh;
+text-align: center;
+}
+
+.learn{
+  color: white;
+  position: absolute;
+  top: 200px;
+  left: 400px;
+  font-family: "Dosis", sans-serif;
+  font-weight: 400;
+  font-size: 75px;
+  line-height: 77px;
+}
+
+.paras{
+  width: 600px;
+  font-size: 20px;
+  color: white;
+  position: absolute;
+  top: 320px;
+  left: 410px;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 300;
+  line-height: 38px;
+}
+
+.cont-1{
+  width: 5%;
+  border: 1px solid grey;
+  position:absolute;
+  bottom: 170px;
+  left: 680px;
+}
+
+
+/* container 2 */
+
+.clients{
+  font-family: "Open Sans", sans-serif;
+  font-size: 11px;
+  font-weight: 300;
+  letter-spacing: 1px;
+  line-height: 21px;
+  color: #D3D5D8;
+  padding-top:100px;
+  text-transform: uppercase;
+  /* position: absolute;
+  top: 113vh;
+  left: 650px; */
+}
+
+.good{
+  font-family: "Dosis", sans-serif;
+  font-weight: 700;
+  font-size: 32px;
+  color: #37404d;
+  letter-spacing: 1px;
+  line-height: 1.6;
+  padding-top: 20px;
+}
+
+.second-container{
+  border-bottom: 1px solid #ebebeb;
+}
+
+.swiper-container{
+  padding-top: 100px;
+}
+
+.swiper-btn{
+  padding-top: 150px;
+}
+
+.socials{
+  height: 20px;
+  max-width: 100%;
+  margin: 200px 25px -10px;
+}
+
+/* container 3 */
+.model{
+  height: 500px;
+  padding-top: 100px;
+  width:700px;
+}
